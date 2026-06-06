@@ -21,6 +21,7 @@ The gNB emulator reports per-UE downlink BER and MCS state. The xApp checks the 
 
 ## Deliverables
 
+- Report: `MRN_ORAN_milestone2.pdf`
 - Demo video: `M2_Project2.mp4`
 - Source code: `ric-composer/`
 
@@ -30,6 +31,7 @@ The gNB emulator reports per-UE downlink BER and MCS state. The xApp checks the 
 project_ORAN/
 ├── README.md
 ├── figures/
+├── MRN_ORAN_milestone2.pdf
 ├── M2_Project2.mp4
 └── ric-composer/
     ├── dev-compose.yaml
