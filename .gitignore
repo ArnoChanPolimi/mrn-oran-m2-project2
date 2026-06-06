@@ -1,0 +1,16 @@
+﻿# Local/editor history
+.history/
+.vscode/
+
+# Git folders accidentally copied from nested repositories
+.git/
+
+# Build and cache outputs
+build/
+__pycache__/
+*.pyc
+
+# Temporary files
+routes.txt.stash.inc
+*.tmp
+*.log
